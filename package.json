@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/jechav/tiny-slider-react#readme",
   "dependencies": {
-    "ventura-slider": "2.9.1"
+    "ventura-slider": "2.9.2"
   },
   "jest": {
     "setupFilesAfterEnv": [
